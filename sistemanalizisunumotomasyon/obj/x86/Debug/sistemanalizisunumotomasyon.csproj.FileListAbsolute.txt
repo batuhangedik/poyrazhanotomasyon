@@ -1,0 +1,122 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.giris.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Sipariş_Takibi.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.PersonelKontrol.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Stok_Kontrolu.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depogiris.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.üretimeyibekleyensiparişler.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisiver.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddeİstekleri.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sipariskontrol.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Musteri.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Tedarikci.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünler.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.hammadde.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.GelirGiderRapor.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe.config
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.siparisgüncelle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\Interop.VBA.dll
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.ResolveComReference.cache
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sifremi_unuttum.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisleri.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünstokekle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ekstragiderler.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.musteriguncelle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoekle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoguncelle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kalitekontrolekle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kaliteguncellecs.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kullanıcısec.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimguncelle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimekle.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yoneticieklesil.resources
+C:\Users\LENOVO\documents\visual studio 2010\Projects\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici_guncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe.config
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.pdb
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csprojAssemblyReference.cache
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.ResolveComReference.cache
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoekle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depogiris.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoguncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ekstragiderler.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.GelirGiderRapor.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.hammadde.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisleri.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kalitekontrolekle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kaliteguncellecs.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kullanıcısec.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.musteriguncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sifremi_unuttum.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.siparisgüncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Tedarikci.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisiver.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddeİstekleri.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Musteri.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sipariskontrol.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.giris.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.PersonelKontrol.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Properties.Resources.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Sipariş_Takibi.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Stok_Kontrolu.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimguncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimekle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yoneticieklesil.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici_guncelle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.üretimeyibekleyensiparişler.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünler.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünstokekle.resources
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.CopyComplete
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.exe
+C:\Users\batuh\Desktop\sistemanalizisunumotomasyon\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.pdb
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe.config
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.exe
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\bin\Debug\sistemanalizisunumotomasyon.pdb
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csprojAssemblyReference.cache
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.ResolveComReference.cache
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoekle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depogiris.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.depoguncelle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ekstragiderler.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.GelirGiderRapor.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.hammadde.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisleri.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kalitekontrolekle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kaliteguncellecs.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.kullanıcısec.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.musteriguncelle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sifremi_unuttum.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.siparisgüncelle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Tedarikci.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddesiparisiver.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Hammaddeİstekleri.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Musteri.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.sipariskontrol.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.giris.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.PersonelKontrol.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Properties.Resources.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Sipariş_Takibi.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.Stok_Kontrolu.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimguncelle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.uretimekle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yoneticieklesil.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.yonetici_guncelle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.üretimeyibekleyensiparişler.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünler.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.ürünstokekle.resources
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.GenerateResource.cache
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.CoreCompileInputs.cache
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.csproj.CopyComplete
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.exe
+D:\OKUL\Projelerde Kullanılan Kodlar\sistemanalizisunumotomasyon(çalışan)\sistemanalizisunumotomasyon\obj\x86\Debug\sistemanalizisunumotomasyon.pdb

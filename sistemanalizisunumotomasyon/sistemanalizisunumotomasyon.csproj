@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D84248EC-41FA-4CA1-A04E-0B264D29E578}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>sistemanalizisunumotomasyon</RootNamespace>
+    <AssemblyName>sistemanalizisunumotomasyon</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="database.cs" />
+    <Compile Include="depoekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="depoekle.Designer.cs">
+      <DependentUpon>depoekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="depogiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="depogiris.Designer.cs">
+      <DependentUpon>depogiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="depoguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="depoguncelle.Designer.cs">
+      <DependentUpon>depoguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekstragiderler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekstragiderler.Designer.cs">
+      <DependentUpon>ekstragiderler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GelirGiderRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GelirGiderRapor.Designer.cs">
+      <DependentUpon>GelirGiderRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hammadde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hammadde.Designer.cs">
+      <DependentUpon>hammadde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hammaddesiparisleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hammaddesiparisleri.Designer.cs">
+      <DependentUpon>Hammaddesiparisleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kaliteekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kaliteekle.Designer.cs">
+      <DependentUpon>kaliteekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kaliteguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kaliteguncelle.Designer.cs">
+      <DependentUpon>kaliteguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kultipisec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kultipisec.Designer.cs">
+      <DependentUpon>kultipisec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriguncelle.Designer.cs">
+      <DependentUpon>musteriguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sifremi_unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifremi_unuttum.Designer.cs">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="siparisgüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siparisgüncelle.Designer.cs">
+      <DependentUpon>siparisgüncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tedarikci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tedarikci.Designer.cs">
+      <DependentUpon>Tedarikci.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hammaddeİstekleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hammaddeİstekleri.Designer.cs">
+      <DependentUpon>Hammaddeİstekleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteri.Designer.cs">
+      <DependentUpon>Musteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sipariskontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sipariskontrol.Designer.cs">
+      <DependentUpon>sipariskontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hammaddesiparisiver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hammaddesiparisiver.Designer.cs">
+      <DependentUpon>Hammaddesiparisiver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelKontrol.Designer.cs">
+      <DependentUpon>PersonelKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="satıs_siparisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="satıs_siparisi.Designer.cs">
+      <DependentUpon>satıs_siparisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stok_Kontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stok_Kontrolu.Designer.cs">
+      <DependentUpon>Stok_Kontrolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uretimguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uretimguncelle.Designer.cs">
+      <DependentUpon>uretimguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uretimeklesil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uretimeklesil.Designer.cs">
+      <DependentUpon>uretimeklesil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yonetici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yonetici.Designer.cs">
+      <DependentUpon>yonetici.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="yoneticieklesil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticieklesil.Designer.cs">
+      <DependentUpon>yoneticieklesil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yoneticiguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoneticiguncelle.Designer.cs">
+      <DependentUpon>yoneticiguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="üretimeyibekleyensiparişler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="üretimeyibekleyensiparişler.Designer.cs">
+      <DependentUpon>üretimeyibekleyensiparişler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ürünler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ürünler.Designer.cs">
+      <DependentUpon>ürünler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ürünstokekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ürünstokekle.Designer.cs">
+      <DependentUpon>ürünstokekle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="depoekle.resx">
+      <DependentUpon>depoekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="depogiris.resx">
+      <DependentUpon>depogiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="depoguncelle.resx">
+      <DependentUpon>depoguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekstragiderler.resx">
+      <DependentUpon>ekstragiderler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GelirGiderRapor.resx">
+      <DependentUpon>GelirGiderRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hammadde.resx">
+      <DependentUpon>hammadde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hammaddesiparisleri.resx">
+      <DependentUpon>Hammaddesiparisleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kaliteekle.resx">
+      <DependentUpon>kaliteekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kaliteguncelle.resx">
+      <DependentUpon>kaliteguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kultipisec.resx">
+      <DependentUpon>kultipisec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriguncelle.resx">
+      <DependentUpon>musteriguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifremi_unuttum.resx">
+      <DependentUpon>sifremi_unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siparisgüncelle.resx">
+      <DependentUpon>siparisgüncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tedarikci.resx">
+      <DependentUpon>Tedarikci.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hammaddesiparisiver.resx">
+      <DependentUpon>Hammaddesiparisiver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hammaddeİstekleri.resx">
+      <DependentUpon>Hammaddeİstekleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteri.resx">
+      <DependentUpon>Musteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sipariskontrol.resx">
+      <DependentUpon>sipariskontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelKontrol.resx">
+      <DependentUpon>PersonelKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="satıs_siparisi.resx">
+      <DependentUpon>satıs_siparisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stok_Kontrolu.resx">
+      <DependentUpon>Stok_Kontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uretimguncelle.resx">
+      <DependentUpon>uretimguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uretimeklesil.resx">
+      <DependentUpon>uretimeklesil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yonetici.resx">
+      <DependentUpon>yonetici.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticieklesil.resx">
+      <DependentUpon>yoneticieklesil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yoneticiguncelle.resx">
+      <DependentUpon>yoneticiguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="üretimeyibekleyensiparişler.resx">
+      <DependentUpon>üretimeyibekleyensiparişler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ürünler.resx">
+      <DependentUpon>ürünler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ürünstokekle.resx">
+      <DependentUpon>ürünstokekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBA">
+      <Guid>{000204EF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>9</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
